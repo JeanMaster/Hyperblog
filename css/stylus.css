@@ -41,7 +41,24 @@ body {
     font-size: 20px;
 }
 
+p, h1{
+    padding: 0 1em 1em;
+}
+
 .post {
+<<<<<<< HEAD
     padding: 1em;
     background-color: white;
+=======
+    padding: 0;
+>>>>>>> footer
+}
+
+.footer p {
+    
+    margin: 0;
+    background: #777;
+    color:white;
+    text-align: center;
+    padding: 0.5em;
 }
