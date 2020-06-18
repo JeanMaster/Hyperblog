@@ -47,6 +47,8 @@ p, h1{
 
 .post {
     padding: 0;
+    padding: 1em;
+    background-color: white;
 }
 
 .footer p {
